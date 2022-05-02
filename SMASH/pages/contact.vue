@@ -20,7 +20,6 @@
           data-netlify="true"
           name="contact"
           method="POST"
-          @submit.prevent
         >
           <input type="hidden" value="contact" name="form-name" />
           <div class="flex flex-row space-x-10 md:space-x-20">
