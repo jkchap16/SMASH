@@ -93,11 +93,7 @@
             ></textarea>
           </p>
           <div class="flex flex-row items-center justify-center">
-            <button
-              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-black border border-transparent rounded-md shadow-sm  hover:bg-indigo-700"
-            >
-              Send!
-            </button>
+            <input type="submit" value="Submit!" class="cursor-pointer w-[75%] px-4 py-2 text-base font-medium text-white bg-black border border-transparent rounded-md shadow-sm  hover:bg-indigo-700"/>
           </div>
         </form>
       </div>
