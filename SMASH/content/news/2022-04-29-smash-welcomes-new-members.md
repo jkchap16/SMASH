@@ -4,6 +4,6 @@ imageAlt: earth with sunrise, captioned "welcome"
 title: SMASH welcomes new members!
 authors:
   - Matthew Tralka
-date: 2022-04-29T22:24:27.611Z
+date: 2022-05-04T18:07:42.344Z
 ---
-Placeholder
+SMASH is estatic to welcome our latest PhD students, Victor Irekponor and BLANK BLANK.
