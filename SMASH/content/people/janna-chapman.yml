@@ -1,12 +1,13 @@
 name: Janna Chapman
 role: "BSc-MSc student "
 priority: 6
-bio: Janna is a senior undergraduate double majoring in Environmental Science
-  and Technology and Geographical Sciences and a 4+1 masters student in
-  Geographical Sciences. She is interested in using GIS to analyze the spatial
-  patterns of environmental issues such as the urban heat island effect,
-  deforestation, and air pollution to help inform sustainable solutions to those
-  problems. She plans to a career in environmental data science.
+bio: Janna is a 4+1 masters student in the Department of Geographical Sciences.
+  She is interested in using GIS to analyze the spatial patterns of
+  environmental issues such as the urban heat island effect, deforestation, and
+  air pollution to help inform sustainable solutions. Janna is currently working
+  on a project with WMATA to inform influences of ridership on the DC Metro to
+  inform sustainable transportation-oriented development. She hopes to pursue a
+  career in environmental data analysis and natural resource management.
 socialLinks:
   - name: Github
     icon: mdi:github
